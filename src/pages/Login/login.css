@@ -1,0 +1,56 @@
+.login-container {
+  width: 100w;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form {
+  width: 300px;
+  height: 250px;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+
+input {
+  width: 270px;
+  height: 30px;
+  margin-top: 10px;
+}
+
+button {
+  width: 270px;
+  height: 40px;
+  background-color: purple;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.content > p {
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+
+
+@media screen and (max-width: 400px) {
+  .login-form {
+    width: 200px;
+    padding: .5rem;
+  }
+  input, button {
+    width: 170px;
+  }
+}

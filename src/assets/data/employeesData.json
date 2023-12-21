@@ -1,0 +1,82 @@
+{
+  "employees": [
+    {
+      "EmpID": "EMP101",
+      "role": "Frontend Developer",
+      "firstName": "Romin",
+      "lastName": "Irani",
+      "fullName": "Romin Irani",
+      "dob": "10-11-1997",
+      "doj": "12-04-2019",
+      "phoneNumber": "408-1234567",
+      "emailAddress": "romin.k.irani@gmail.com",
+      "userName": "romin",
+      "password": "pass"
+    },
+    {
+      "EmpID": "EMP102",
+      "role": "Backend Developer",
+      "firstName": "Neil",
+      "lastName": "Irani",
+      "fullName": "Neil Irani",
+      "dob": "10-11-2000",
+      "doj": "26-02-2022",
+      "phoneNumber": "408-1111111",
+      "emailAddress": "neilrirani@gmail.com",
+      "userName": "neil",
+      "password": "pass"
+    },
+    {
+      "EmpID": "EMP103",
+      "role": "Fullstack Developer",
+      "firstName": "Tom",
+      "lastName": "Hanks",
+      "fullName": "Tom Hanks",
+      "dob": "10-11-1999",
+      "doj": "30-04-2020",
+      "phoneNumber": "408-2222222",
+      "emailAddress": "tomhanks@gmail.com",
+      "userName": "tom",
+      "password": "pass"
+    },
+    {
+      "EmpID": "EMP104",
+      "role": "Frontend Developer",
+      "firstName": "Romin",
+      "lastName": "Irani",
+      "fullName": "Romin Irani",
+      "dob": "10-11-1997",
+      "doj": "12-04-2019",
+      "phoneNumber": "408-1234567",
+      "emailAddress": "romin.k.irani@gmail.com",
+      "userName": "romin",
+      "password": "pass"
+    },
+    {
+      "EmpID": "EMP105",
+      "role": "Backend Developer",
+      "firstName": "Neil",
+      "lastName": "Irani",
+      "fullName": "Neil Irani",
+      "dob": "10-11-2000",
+      "doj": "26-02-2022",
+      "phoneNumber": "408-1111111",
+      "emailAddress": "neilrirani@gmail.com",
+      "userName": "neil",
+      "password": "pass"
+    },
+    {
+      "EmpID": "EMP106",
+      "role": "Fullstack Developer",
+      "firstName": "Tom",
+      "lastName": "Hanks",
+      "fullName": "Tom Hanks",
+      "dob": "10-11-1999",
+      "doj": "30-04-2020",
+      "phoneNumber": "408-2222222",
+      "emailAddress": "tomhanks@gmail.com",
+      "userName": "tom",
+      "password": "pass"
+    }
+  ]
+}
